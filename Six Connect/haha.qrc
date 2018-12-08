@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Pic">
+        <file>BackGroundPic.png</file>
+        <file>Pic/bg.png</file>
+        <file>Pic/bg1.png</file>
+        <file>Pic/bg2.png</file>
+    </qresource>
+    <qresource prefix="/Music">
+        <file>Music/chessone.wav</file>
+        <file>Music/lose.wav</file>
+        <file>Music/win.wav</file>
+    </qresource>
+</RCC>
