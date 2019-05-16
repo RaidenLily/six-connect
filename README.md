@@ -5,7 +5,7 @@
 
 代码比较简单，人机对战使用估值函数法（比较low)
 
-**基本上参考了github上面的一位大佬，但是我忘了是谁了，如果有什么问题可以跟我说一下...**
+**基本上参考了github上的一位大佬，但是我忘了是谁了，如果有人知道可以跟我说一下...**
 
 ![1](https://github.com/RaidenLily/six-connect/blob/master/screenshot/Screenshot%20(47).png)
 ![2](https://github.com/RaidenLily/six-connect/blob/master/screenshot/Screenshot%20(48).png)
